@@ -13,7 +13,9 @@ The steps:
 1. Rename your fork's repository to `<yourgithubname>.github.io`.
 1. Done
 
+<!--more-->
+
 If you are intersted in the same, please check out Barry Clark's extremely helpful repo and explanations:
 
-* [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
-* [https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+* <https://github.com/barryclark/jekyll-now>
+* <https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/>
