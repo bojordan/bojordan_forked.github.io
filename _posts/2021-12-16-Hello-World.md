@@ -11,7 +11,7 @@ The steps:
 1. Get a GitHub account, if you don't already have one.
 1. Fork [Barry Clark's jekyll-now repo](https://github.com/barryclark/jekyll-now).
 1. Rename your fork's repository to `<yourgithubname>.github.io`.
-1. Done
+1. Done!
 
 <!--more-->
 
