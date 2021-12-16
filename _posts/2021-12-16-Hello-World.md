@@ -7,5 +7,5 @@ I'm stumbling through getting a quick blogging solution going. So far, it looks 
 
 If you are intersted in the same, please check out Barry Clark's extremely helpful repo and explanations:
 
-* https://github.com/barryclark/jekyll-now
-* https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+* [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
+* [https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
