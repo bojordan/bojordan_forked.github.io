@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this mic on?
+title: Hello world
 ---
 
 I'm stumbling through getting a quick blogging solution going.
