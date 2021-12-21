@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello world
+title: Hello world again
 ---
 
-I spare moments I've stumbling through getting a quick blogging solution, and - HELLO WORLD - I have one.
+In spare moments I've stumbling through getting a quick blogging solution, and - HELLO WORLD - I have one.
 
 GitHub is a wonderful resource, and I already use it. Further, [GitHub Pages](https://docs.github.com/en/pages) is a wonderful *free* resource for all users of GitHub, both free and paid. Add the ability fork someone else's getting-started work (of course this is a core tenent of what GitHub is), is amazing.
 
