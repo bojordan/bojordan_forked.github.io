@@ -5,6 +5,8 @@ title: My Daily Log
 
 My daily log is currently a single text document, new each morning, copied from the previous day’s document. The document contains four lists, with items moving between the lists as tasks are completed.
 
+<!--more-->
+
 The document is everything I'd like to have in my head during the day, if only I could actually keep track of it all up there.
 
 I feel I should be able to view one page of information and tell roughly the quantity of stuff in all my piles. If I can read the titles and short notes about all of the things, then all the things feel containable. This visualization is a delicate balance, but it is the difference between a system that is clean and productive and one that is a stressful, depressing mess.
